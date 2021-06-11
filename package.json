@@ -9,7 +9,6 @@
     "author": "zephyr",
     "license": "ISC",
     "dependencies": {
-        "colors": "^1.4.0",
         "jimp": "^0.16.1",
         "lodash": "^4.17.21"
     },
