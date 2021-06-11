@@ -1,0 +1,20 @@
+{
+    "name": "tti.js",
+    "version": "1.0.1",
+    "description": "Text to image conversion utility.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "zephyr",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "jimp": "^0.16.1",
+        "lodash": "^4.17.21"
+    },
+    "preferGlobal": true,
+    "directories": {
+        "bin": "./bin"
+    }
+}
