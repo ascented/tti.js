@@ -2,7 +2,7 @@
     "name": "tti.js",
     "version": "1.0.1",
     "description": "Text to image conversion utility.",
-    "main": "index.js",
+    "main": "./lib/tti.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -16,5 +16,8 @@
     "preferGlobal": true,
     "directories": {
         "bin": "./bin"
+    },
+    "bin": {
+        "tti": "./bin/tti.js"
     }
 }
